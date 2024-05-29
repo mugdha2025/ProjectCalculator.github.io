@@ -20,16 +20,16 @@ header{
 .mainoperators{
     display: flex;
     flex-direction: row;
-    column-gap: 50px;
+    column-gap: 10px;
     border: 2px black solid;
-    padding: 0px 110px 0px 110px;
+    padding: 0px 90px 0px 90px;
     border-radius: 10px;
 }
 
 .first5{
     display: flex;
     flex-direction: row;
-    column-gap: 50px;
+    column-gap: 10px;
     border: 2px black solid;
     padding: 0px 50px 0px 50px;
     border-radius: 10px;
@@ -38,95 +38,138 @@ header{
 .last5{
     display: flex;
     flex-direction: row;
-    column-gap: 50px;
+    column-gap: 10px;
     border: 2px black solid;
     padding: 0px 50px 0px 50px;
     border-radius: 10px;
 }
 
+.mainoperators button{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
+    height: 75px;
+    width: 75px;
+}
+
+.first5 button{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
+    height: 75px;
+    width: 75px;
+}
+
+.last5 button{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
+    height: 75px;
+    width: 75px;
+}
+
+
+/* 
 #plusSign{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #minusSign{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #multiplicationSign{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #divisionSign{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number1{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number2{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number3{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number4{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number5{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number6{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number7{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number8{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number9{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
+    margin: 10px 0px 10px 0px;
 }
 
 #number0{
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
-}
+    margin: 10px 0px 10px 0px;
+} */
 
 #clearBtn{
     width: 600px;
